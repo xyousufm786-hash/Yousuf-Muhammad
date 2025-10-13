@@ -46,7 +46,7 @@ A Python-based data processing project that calculates and visualizes student pe
 
 ### 🌐 Connect With Me
 📧 [x.yousufm786@gmail.com](mailto:x.yousufm786@gmail.com)  
-💼 [LinkedIn](#) (coming soon)  
+💼 [LinkedIn – Yousuf Mohammad](https://www.linkedin.com/in/yousuf-mohammad-94207a342/)
 🌍 [ruqqs.com](https://ruqqs.com)  
 📸 [Instagram – @ruqqs.official](https://instagram.com/ruqqs.official)
 
