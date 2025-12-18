@@ -1,0 +1,32 @@
+CVC vs DVC
+Centralized Version Control
+======================================================================
+
+the main is folder is uploaded
+on the server and only has 1 backup at a time
+
+Distributed Version Control
+Every team member will have the backup of the folder
+at every time
+======================================================================
+Repo = Folder
+
+Git
+Local Repo
+
+Github (Server)
+Global Repo
+
+
+
+
+GIT commands
+
+1. git init (initialize) once only
+2. git config --global user.name ""(for username)
+3. git config --global user.email ""(for email)
+4. git . add (to check whether files are backed up or not tracked untracked
+5. git status 
+6. git commit --m :Anything here"
+7. git checkout -f(to recover files locally)
+
